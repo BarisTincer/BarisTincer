@@ -1,4 +1,4 @@
-### Hi I'm Barış 👋
+### Hi, I'm Barış 👋
 https://www.linkedin.com/in/barış-tincer-a003b8177/
 ----
 [BARIŞ TİNCER CV.pdf](https://github.com/BarisTincer/BarisTincer/files/7966859/BARIS.TINCER.CV.pdf)
