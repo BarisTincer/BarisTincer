@@ -3,6 +3,8 @@ https://www.linkedin.com/in/barış-tincer-a003b8177/
 ----
 [BARIŞ TİNCER CV.pdf](https://github.com/BarisTincer/BarisTincer/files/7966859/BARIS.TINCER.CV.pdf)
 
+![unnamed](https://user-images.githubusercontent.com/91785174/151719812-9005e444-5f95-4fe4-9287-c1c92aa112d1.png)
+
 <!--
 **BarisTincer/BarisTincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
