@@ -1,10 +1,8 @@
 ### Hi, I'm Barış 👋
 ----
-https://www.linkedin.com/in/barış-tincer
+[https://www.linkedin.com/in/barış-tincer](https://www.linkedin.com/in/baris-tincer/)
 ----
-[BARIŞ TİNCER CV.pdf](https://github.com/BarisTincer/BarisTincer/files/7966859/BARIS.TINCER.CV.pdf)
-
-![Code](https://user-images.githubusercontent.com/91785174/151720084-fcb2fadc-63f8-4d34-a0ab-5878d1c95ef4.png)
+[BARIŞ TİNCER CV.pdf](https://github.com/BarisTincer/BarisTincer/file:///C:/Users/Baris/Desktop/CV_BARI%C5%9E_T%C4%B0NCER.pdf)
 
 
 <!--
