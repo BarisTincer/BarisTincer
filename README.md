@@ -2,7 +2,7 @@
 ----
 [https://www.linkedin.com/in/barış-tincer](https://www.linkedin.com/in/baris-tincer/)
 ----
-[BARIŞ TİNCER CV.pdf](file:///C:/Users/Baris/Desktop/CV_BARI%C5%9E_T%C4%B0NCER.pdf)
+[CV_BARIŞ_TİNCER.pdf](https://github.com/user-attachments/files/19847072/CV_BARIS_TINCER.pdf)
 
 
 <!--
