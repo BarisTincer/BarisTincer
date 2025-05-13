@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="40" height="40"/>
 </a> </h2> 
 
-<h3> My CV: https://github.com/user-attachments/files/19847072/CV_BARIS_TINCER.pdf </h3>
+<h3> My CV: <a href="https://github.com/user-attachments/files/19847072/CV_BARIS_TINCER.pdf"> <img src="https://github.com/user-attachments/assets/8a3b9894-a698-42f8-bfaa-db55091af9c3" alt="dot-net" width="40" height="40"/> </a> </h3>
 
 <!--
 **BarisTincer/BarisTincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
